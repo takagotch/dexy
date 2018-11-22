@@ -1,6 +1,6 @@
 ### dexy
 ---
-https://devdocs.io/
+http://www.dexy.it/
 
 ```
 ```
